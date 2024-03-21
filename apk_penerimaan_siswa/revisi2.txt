@@ -1,0 +1,3 @@
+form pendaftaran di front end di hapus ganti form registrasi orang tua
+setelah login orang mengisi biodata siswa
+admin mengkonfirmasi pendaftaran

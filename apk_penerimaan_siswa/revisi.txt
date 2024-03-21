@@ -1,0 +1,5 @@
+orang tua siswa bisa login
+	orang tua bisa melihat status pengajuan
+
+siswa pindahan
+siswa masuk
